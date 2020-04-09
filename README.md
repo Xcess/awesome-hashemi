@@ -8,3 +8,4 @@ For more info see the original [repo](https://github.com/mr-hashemi/mr-hashemi).
 Please open PR and we will maintain this list together.
 
 ---
+- [hashemi.vim](https://github.com/RealAmirali/hashemi.vim) - Mr Hashemi syntax highlight for vim
