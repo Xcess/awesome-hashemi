@@ -1,5 +1,5 @@
 # Awesome Hashemi
-Curated list of everything related to Mr.Hashemi prgramming language.
+Curated list of everything related to Mr.Hashemi programming language.
 ---
 Mr.Hashemi is a programming language founded by [@psycho-ir](https://github.com/psycho-ir) and maintained by an active community!
 
